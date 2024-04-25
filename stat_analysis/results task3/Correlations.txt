@@ -1,0 +1,28 @@
+----------------------------
+Very Strong Correlations
+----------------------------
+det - article 0.84797(1.9067e-121)
+emo_neg - emo_anx 0.85802(2.2597e-127)
+Culture - politic 0.83563(9.9003e-115)
+Physical - health 0.82258(3.2625e-108)
+Conversation - netspeak 1(0)
+----------------------------
+Strong Correlations
+----------------------------
+Dic - Linguistic 0.58375(4.3472e-41)
+Linguistic - xFunction 0.79152(1.2136e-94)
+Affect - tone_pos 0.62715(6.2533e-49)
+tone_neg - emotion 0.62313(3.7517e-48)
+Social - socbehav 0.72943(2.0592e-73)
+health - illness 0.6843(2.2895e-61)
+AllPunc - Period 0.66244(2.7581e-56)
+----------------------------
+Moderate Correlations
+----------------------------
+WPS - BigWords -0.37473(5.9752e-16)
+BigWords - Dic -0.38459(8.7661e-17)
+pronoun - ppron 0.36296(5.4332e-15)
+socrefs - family 0.34913(6.4763e-14)
+Perception - attention 0.3501(5.4697e-14)
+focuspresent - focusfuture -0.33621(5.8986e-13)
+varibles have been loaded correclty

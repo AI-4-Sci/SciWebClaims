@@ -1,0 +1,1173 @@
+
+Variables:
+
+    <strong>WC</strong>: 435×1 double
+
+        Properties:
+            Description:  WC
+        Values:
+
+            Min           3   
+            Median        9   
+            Max          25   
+
+    <strong>Analytic</strong>: 435×1 double
+
+        Properties:
+            Description:  Analytic
+        Values:
+
+            Min            1  
+            Median     89.52  
+            Max           99  
+
+    <strong>Clout</strong>: 435×1 double
+
+        Properties:
+            Description:  Clout
+        Values:
+
+            Min            1  
+            Median     40.06  
+            Max           99  
+
+    <strong>Authentic</strong>: 435×1 double
+
+        Properties:
+            Description:  Authentic
+        Values:
+
+            Min            1  
+            Median      5.07  
+            Max           99  
+
+    <strong>Tone</strong>: 435×1 double
+
+        Properties:
+            Description:  Tone
+        Values:
+
+            Min            1  
+            Median     20.23  
+            Max           99  
+
+    <strong>WPS</strong>: 435×1 double
+
+        Properties:
+            Description:  WPS
+        Values:
+
+            Min           3   
+            Median        9   
+            Max          25   
+
+    <strong>BigWords</strong>: 435×1 double
+
+        Properties:
+            Description:  BigWords
+        Values:
+
+            Min            0  
+            Median     38.46  
+            Max          100  
+
+    <strong>Dic</strong>: 435×1 double
+
+        Properties:
+            Description:  Dic
+        Values:
+
+            Min           20  
+            Median     76.47  
+            Max          100  
+
+    <strong>Linguistic</strong>: 435×1 double
+
+        Properties:
+            Description:  Linguistic
+        Values:
+
+            Min            0  
+            Median        50  
+            Max         87.5  
+
+    <strong>xFunction</strong>: 435×1 double
+
+        Properties:
+            Description:  function
+        Values:
+
+            Min            0  
+            Median        40  
+            Max        63.64  
+
+    <strong>pronoun</strong>: 435×1 double
+
+        Properties:
+            Description:  pronoun
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        15.79  
+
+    <strong>ppron</strong>: 435×1 double
+
+        Properties:
+            Description:  ppron
+        Values:
+
+            Min            0  
+            Median         0  
+            Max         8.33  
+
+    <strong>i</strong>: 435×1 double
+
+        Properties:
+            Description:  i
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>we</strong>: 435×1 double
+
+        Properties:
+            Description:  we
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>you</strong>: 435×1 double
+
+        Properties:
+            Description:  you
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>shehe</strong>: 435×1 double
+
+        Properties:
+            Description:  shehe
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>they</strong>: 435×1 double
+
+        Properties:
+            Description:  they
+        Values:
+
+            Min            0  
+            Median         0  
+            Max         8.33  
+
+    <strong>ipron</strong>: 435×1 double
+
+        Properties:
+            Description:  ipron
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        14.29  
+
+    <strong>det</strong>: 435×1 double
+
+        Properties:
+            Description:  det
+        Values:
+
+            Min            0  
+            Median      9.09  
+            Max           40  
+
+    <strong>article</strong>: 435×1 double
+
+        Properties:
+            Description:  article
+        Values:
+
+            Min            0  
+            Median      5.88  
+            Max           40  
+
+    <strong>number</strong>: 435×1 double
+
+        Properties:
+            Description:  number
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          25   
+
+    <strong>prep</strong>: 435×1 double
+
+        Properties:
+            Description:  prep
+        Values:
+
+            Min            0  
+            Median     14.29  
+            Max           40  
+
+    <strong>auxverb</strong>: 435×1 double
+
+        Properties:
+            Description:  auxverb
+        Values:
+
+            Min            0  
+            Median     11.11  
+            Max           50  
+
+    <strong>adverb</strong>: 435×1 double
+
+        Properties:
+            Description:  adverb
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          25   
+
+    <strong>conj</strong>: 435×1 double
+
+        Properties:
+            Description:  conj
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          20   
+
+    <strong>negate</strong>: 435×1 double
+
+        Properties:
+            Description:  negate
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          20   
+
+    <strong>verb</strong>: 435×1 double
+
+        Properties:
+            Description:  verb
+        Values:
+
+            Min            0  
+            Median      12.5  
+            Max           75  
+
+    <strong>adj</strong>: 435×1 double
+
+        Properties:
+            Description:  adj
+        Values:
+
+            Min            0  
+            Median         0  
+            Max         37.5  
+
+    <strong>quantity</strong>: 435×1 double
+
+        Properties:
+            Description:  quantity
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        66.67  
+
+    <strong>Drives</strong>: 435×1 double
+
+        Properties:
+            Description:  Drives
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        33.33  
+
+    <strong>affiliation</strong>: 435×1 double
+
+        Properties:
+            Description:  affiliation
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        16.67  
+
+    <strong>achieve</strong>: 435×1 double
+
+        Properties:
+            Description:  achieve
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          25   
+
+    <strong>power</strong>: 435×1 double
+
+        Properties:
+            Description:  power
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        33.33  
+
+    <strong>Cognition</strong>: 435×1 double
+
+        Properties:
+            Description:  Cognition
+        Values:
+
+            Min            0  
+            Median     11.11  
+            Max        66.67  
+
+    <strong>allnone</strong>: 435×1 double
+
+        Properties:
+            Description:  allnone
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          25   
+
+    <strong>cogproc</strong>: 435×1 double
+
+        Properties:
+            Description:  cogproc
+        Values:
+
+            Min            0  
+            Median     11.11  
+            Max        66.67  
+
+    <strong>insight</strong>: 435×1 double
+
+        Properties:
+            Description:  insight
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        33.33  
+
+    <strong>cause</strong>: 435×1 double
+
+        Properties:
+            Description:  cause
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        33.33  
+
+    <strong>discrep</strong>: 435×1 double
+
+        Properties:
+            Description:  discrep
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          25   
+
+    <strong>tentat</strong>: 435×1 double
+
+        Properties:
+            Description:  tentat
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          25   
+
+    <strong>certitude</strong>: 435×1 double
+
+        Properties:
+            Description:  certitude
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          20   
+
+    <strong>differ</strong>: 435×1 double
+
+        Properties:
+            Description:  differ
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        22.22  
+
+    <strong>memory</strong>: 435×1 double
+
+        Properties:
+            Description:  memory
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        11.11  
+
+    <strong>Affect</strong>: 435×1 double
+
+        Properties:
+            Description:  Affect
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        33.33  
+
+    <strong>tone_pos</strong>: 435×1 double
+
+        Properties:
+            Description:  tone_pos
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          25   
+
+    <strong>tone_neg</strong>: 435×1 double
+
+        Properties:
+            Description:  tone_neg
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        30.77  
+
+    <strong>emotion</strong>: 435×1 double
+
+        Properties:
+            Description:  emotion
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        30.77  
+
+    <strong>emo_pos</strong>: 435×1 double
+
+        Properties:
+            Description:  emo_pos
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>emo_neg</strong>: 435×1 double
+
+        Properties:
+            Description:  emo_neg
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        23.08  
+
+    <strong>emo_anx</strong>: 435×1 double
+
+        Properties:
+            Description:  emo_anx
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        23.08  
+
+    <strong>emo_anger</strong>: 435×1 double
+
+        Properties:
+            Description:  emo_anger
+        Values:
+
+            Min            0  
+            Median         0  
+            Max         6.67  
+
+    <strong>emo_sad</strong>: 435×1 double
+
+        Properties:
+            Description:  emo_sad
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        11.11  
+
+    <strong>swear</strong>: 435×1 double
+
+        Properties:
+            Description:  swear
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>Social</strong>: 435×1 double
+
+        Properties:
+            Description:  Social
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        42.86  
+
+    <strong>socbehav</strong>: 435×1 double
+
+        Properties:
+            Description:  socbehav
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        33.33  
+
+    <strong>prosocial</strong>: 435×1 double
+
+        Properties:
+            Description:  prosocial
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>polite</strong>: 435×1 double
+
+        Properties:
+            Description:  polite
+        Values:
+
+            Min            0  
+            Median         0  
+            Max         7.14  
+
+    <strong>conflict</strong>: 435×1 double
+
+        Properties:
+            Description:  conflict
+        Values:
+
+            Min            0  
+            Median         0  
+            Max         12.5  
+
+    <strong>moral</strong>: 435×1 double
+
+        Properties:
+            Description:  moral
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        14.29  
+
+    <strong>comm</strong>: 435×1 double
+
+        Properties:
+            Description:  comm
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        16.67  
+
+    <strong>socrefs</strong>: 435×1 double
+
+        Properties:
+            Description:  socrefs
+        Values:
+
+            Min            0  
+            Median         0  
+            Max         37.5  
+
+    <strong>family</strong>: 435×1 double
+
+        Properties:
+            Description:  family
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          25   
+
+    <strong>friend</strong>: 435×1 double
+
+        Properties:
+            Description:  friend
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>female</strong>: 435×1 double
+
+        Properties:
+            Description:  female
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        11.11  
+
+    <strong>male</strong>: 435×1 double
+
+        Properties:
+            Description:  male
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        11.11  
+
+    <strong>Culture</strong>: 435×1 double
+
+        Properties:
+            Description:  Culture
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        44.44  
+
+    <strong>politic</strong>: 435×1 double
+
+        Properties:
+            Description:  politic
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        44.44  
+
+    <strong>ethnicity</strong>: 435×1 double
+
+        Properties:
+            Description:  ethnicity
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        14.29  
+
+    <strong>tech</strong>: 435×1 double
+
+        Properties:
+            Description:  tech
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        18.18  
+
+    <strong>Lifestyle</strong>: 435×1 double
+
+        Properties:
+            Description:  Lifestyle
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          40   
+
+    <strong>leisure</strong>: 435×1 double
+
+        Properties:
+            Description:  leisure
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          20   
+
+    <strong>home</strong>: 435×1 double
+
+        Properties:
+            Description:  home
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          20   
+
+    <strong>work</strong>: 435×1 double
+
+        Properties:
+            Description:  work
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          40   
+
+    <strong>money</strong>: 435×1 double
+
+        Properties:
+            Description:  money
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          25   
+
+    <strong>relig</strong>: 435×1 double
+
+        Properties:
+            Description:  relig
+        Values:
+
+            Min            0  
+            Median         0  
+            Max         12.5  
+
+    <strong>Physical</strong>: 435×1 double
+
+        Properties:
+            Description:  Physical
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        57.14  
+
+    <strong>health</strong>: 435×1 double
+
+        Properties:
+            Description:  health
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        46.15  
+
+    <strong>illness</strong>: 435×1 double
+
+        Properties:
+            Description:  illness
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        33.33  
+
+    <strong>wellness</strong>: 435×1 double
+
+        Properties:
+            Description:  wellness
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        22.22  
+
+    <strong>mental</strong>: 435×1 double
+
+        Properties:
+            Description:  mental
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        38.46  
+
+    <strong>substances</strong>: 435×1 double
+
+        Properties:
+            Description:  substances
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          50   
+
+    <strong>sexual</strong>: 435×1 double
+
+        Properties:
+            Description:  sexual
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>food</strong>: 435×1 double
+
+        Properties:
+            Description:  food
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          25   
+
+    <strong>death</strong>: 435×1 double
+
+        Properties:
+            Description:  death
+        Values:
+
+            Min            0  
+            Median         0  
+            Max         12.5  
+
+    <strong>need</strong>: 435×1 double
+
+        Properties:
+            Description:  need
+        Values:
+
+            Min            0  
+            Median         0  
+            Max         7.69  
+
+    <strong>want</strong>: 435×1 double
+
+        Properties:
+            Description:  want
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>acquire</strong>: 435×1 double
+
+        Properties:
+            Description:  acquire
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          25   
+
+    <strong>lack</strong>: 435×1 double
+
+        Properties:
+            Description:  lack
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        27.27  
+
+    <strong>fulfill</strong>: 435×1 double
+
+        Properties:
+            Description:  fulfill
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        16.67  
+
+    <strong>fatigue</strong>: 435×1 double
+
+        Properties:
+            Description:  fatigue
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>reward</strong>: 435×1 double
+
+        Properties:
+            Description:  reward
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        11.11  
+
+    <strong>risk</strong>: 435×1 double
+
+        Properties:
+            Description:  risk
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        33.33  
+
+    <strong>curiosity</strong>: 435×1 double
+
+        Properties:
+            Description:  curiosity
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        14.29  
+
+    <strong>allure</strong>: 435×1 double
+
+        Properties:
+            Description:  allure
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        33.33  
+
+    <strong>Perception</strong>: 435×1 double
+
+        Properties:
+            Description:  Perception
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        42.86  
+
+    <strong>attention</strong>: 435×1 double
+
+        Properties:
+            Description:  attention
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        33.33  
+
+    <strong>motion</strong>: 435×1 double
+
+        Properties:
+            Description:  motion
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        28.57  
+
+    <strong>space</strong>: 435×1 double
+
+        Properties:
+            Description:  space
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        33.33  
+
+    <strong>visual</strong>: 435×1 double
+
+        Properties:
+            Description:  visual
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        33.33  
+
+    <strong>auditory</strong>: 435×1 double
+
+        Properties:
+            Description:  auditory
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          10   
+
+    <strong>feeling</strong>: 435×1 double
+
+        Properties:
+            Description:  feeling
+        Values:
+
+            Min            0  
+            Median         0  
+            Max         12.5  
+
+    <strong>time</strong>: 435×1 double
+
+        Properties:
+            Description:  time
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        33.33  
+
+    <strong>focuspast</strong>: 435×1 double
+
+        Properties:
+            Description:  focuspast
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          25   
+
+    <strong>focuspresent</strong>: 435×1 double
+
+        Properties:
+            Description:  focuspresent
+        Values:
+
+            Min            0  
+            Median      8.33  
+            Max        28.57  
+
+    <strong>focusfuture</strong>: 435×1 double
+
+        Properties:
+            Description:  focusfuture
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          25   
+
+    <strong>Conversation</strong>: 435×1 double
+
+        Properties:
+            Description:  Conversation
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        16.67  
+
+    <strong>netspeak</strong>: 435×1 double
+
+        Properties:
+            Description:  netspeak
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        16.67  
+
+    <strong>assent</strong>: 435×1 double
+
+        Properties:
+            Description:  assent
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>nonflu</strong>: 435×1 double
+
+        Properties:
+            Description:  nonflu
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>filler</strong>: 435×1 double
+
+        Properties:
+            Description:  filler
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>AllPunc</strong>: 435×1 double
+
+        Properties:
+            Description:  AllPunc
+        Values:
+
+            Min         4.55  
+            Median     14.29  
+            Max        53.33  
+
+    <strong>Period</strong>: 435×1 double
+
+        Properties:
+            Description:  Period
+        Values:
+
+            Min            4  
+            Median     11.11  
+            Max        33.33  
+
+    <strong>Comma</strong>: 435×1 double
+
+        Properties:
+            Description:  Comma
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        26.67  
+
+    <strong>QMark</strong>: 435×1 double
+
+        Properties:
+            Description:  QMark
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>Exclam</strong>: 435×1 double
+
+        Properties:
+            Description:  Exclam
+        Values:
+
+            Min          0    
+            Median       0    
+            Max          0    
+
+    <strong>Apostro</strong>: 435×1 double
+
+        Properties:
+            Description:  Apostro
+        Values:
+
+            Min           0   
+            Median        0   
+            Max          25   
+
+    <strong>OtherP</strong>: 435×1 double
+
+        Properties:
+            Description:  OtherP
+        Values:
+
+            Min            0  
+            Median         0  
+            Max        36.36  
+

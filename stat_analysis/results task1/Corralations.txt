@@ -1,0 +1,30 @@
+----------------------------
+Very Strong Correlations
+----------------------------
+Linguistic - xFunction 0.87649(1.5475e-160)
+pronoun - ppron 0.83414(4.7968e-131)
+emo_neg - emo_anx 0.85014(4.2334e-141)
+Physical - health 0.87318(7.3396e-158)
+health - illness 0.94387(3.3683e-242)
+Conversation - netspeak 0.91441(3.9314e-198)
+----------------------------
+Strong Correlations
+----------------------------
+Dic - Linguistic 0.74164(1.4195e-88)
+xFunction - pronoun 0.60825(5.1092e-52)
+ppron - i 0.50553(7.3771e-34)
+det - article 0.70986(5.5651e-78)
+Drives - affiliation 0.62865(1.8396e-56)
+cogproc - insight 0.54879(9.605e-41)
+Affect - tone_pos 0.68741(2.5238e-71)
+emotion - emo_pos 0.58569(1.823e-47)
+Social - socbehav 0.7262(3.0514e-83)
+prosocial - polite 0.55649(4.4572e-42)
+----------------------------
+Moderate Correlations
+----------------------------
+ipron - det 0.3084(1.6843e-12)
+Cognition - allnone 0.30345(3.935e-12)
+tone_neg - emotion 0.36888(1.3534e-17)
+socbehav - prosocial 0.37961(1.28e-18)
+Lifestyle - leisure 0.41688(1.7494e-22)
